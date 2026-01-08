@@ -1,7 +1,7 @@
 # ArabicNLP
 Arabic Language involvement or focused NLP work from our group
 
-# I) AlphaMWE-Arabic
+# I) AlphaMWE-Arabic-corpus-MT
 Multilingual Multi-word Expression annotated corpora including Mordern-standard Arabic and Dialectual Arabic, testing Machine Translation Systems on Arabic
 
 @inproceedings{hadj-mohamed-etal-2023-alphamwe,
