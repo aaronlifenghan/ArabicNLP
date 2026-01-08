@@ -1,7 +1,7 @@
 # ArabicNLP
 Arabic Language involvement or focused NLP work from our group
 
-# I) AlphaMWE
+# I) AlphaMWE-Arabic
 Multilingual Multi-word Expression annotated corpora including Mordern-standard Arabic and Dialectual Arabic, testing Machine Translation Systems on Arabic
 
 @inproceedings{hadj-mohamed-etal-2023-alphamwe,
@@ -23,7 +23,7 @@ Multilingual Multi-word Expression annotated corpora including Mordern-standard 
 }
 [alphamwe-arabic-github](https://github.com/aaronlifenghan/AlphaMWE)
 
-# II) Ara-HOPE
+# II) Ara-HOPE-Metric
 Arabic-focused Translation Evaluation framework adapted from standard HOPE metric, Ara-HOPE
 
 @misc{alabdullah2025arahopehumancentricposteditingevaluation,
@@ -36,7 +36,7 @@ Arabic-focused Translation Evaluation framework adapted from standard HOPE metri
       url={https://arxiv.org/abs/2512.21787}, 
 }
 
-# III) Arabic-MT
+# III) Arabic-MT-Dialectal
 Dialectual Arabic to Morden Standard Arabic Machine Translation testing LLMs with prompting and finetuning
 
 @misc{alabdullah2025advancingdialectalarabicmodern,
@@ -48,6 +48,9 @@ Dialectual Arabic to Morden Standard Arabic Machine Translation testing LLMs wit
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2507.20301}, 
 }
+
+[arabic-MT-git-code](https://github.com/abdullahalabdullah/Advancing-DA2MSA-MT)
+[arabic-MT-huggingface-models](https://huggingface.co/collections/er-abd/advancing-da2msa-mt)
 
 # IV) forthcoming (come on board?)
 
